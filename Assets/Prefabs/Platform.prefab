@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4224661123757148}
   - component: {fileID: 212207299842198978}
   m_Layer: 0
-  m_Name: TwoUnitTallPlatform
+  m_Name: Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
